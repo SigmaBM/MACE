@@ -1,0 +1,17 @@
+{
+    "grid": """XXXXXXXXXXXXX
+               X    XX     X
+               T    XX     D
+               X  1  X  2  X
+               S     XX    P
+               X     XX    X
+               XXXXXXXXXXXXX""",
+    "start_bonus_orders": [],
+    "start_all_orders" : [
+        { "ingredients" : ["tomato"]}
+    ],
+    "observation_ranges": [
+        {"xmin": None, "xmax": 6, "ymin": None, "ymax": None}, 
+        {"xmin": 6, "xmax": None, "ymin": None, "ymax": None}
+    ]
+}

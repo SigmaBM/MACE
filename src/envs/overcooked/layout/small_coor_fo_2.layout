@@ -1,0 +1,13 @@
+{
+    "grid": """XXXXXXXXXXXXX
+               X     X     X
+               T     X     D
+               X  1  X  2  X
+               S     X     P
+               X     X     X
+               XXXXXXXXXXXXX""",
+    "start_bonus_orders": [],
+    "start_all_orders" : [
+        { "ingredients" : ["tomato"]}
+    ]
+}

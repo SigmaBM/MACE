@@ -1,0 +1,11 @@
+.vscode/
+
+debug/
+logs/
+out
+
+scripts/
+*.sh
+
+__pycache__
+.DS_Store
