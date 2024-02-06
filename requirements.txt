@@ -1,0 +1,2 @@
+-e git+https://github.com/HumanCompatibleAI/overcooked_ai.git@29524d104051e864e4f24a9012bd1c875fa7d107#egg=overcooked_ai
+-e git+https://github.com/oxwhirl/smac.git@e5d60341bb98dbdc2a4916f900bbd905342609fa#egg=SMAC
